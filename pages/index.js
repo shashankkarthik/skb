@@ -16,8 +16,6 @@ export default function Home() {
           Our site is still under construction but check back soon!
         </p>
       </main>
-
-      <Footer />
     </div>
   )
 }
